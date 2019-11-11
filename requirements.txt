@@ -1,2 +1,5 @@
 numpy==1.14.3
 pygame==1.9.6
+copy
+math
+collections
